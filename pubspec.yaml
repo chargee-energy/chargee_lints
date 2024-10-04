@@ -1,13 +1,13 @@
 name: chargee_lints
 description: Recommended lints for Flutter apps, packages, and plugins created by Chargee.
-version: 1.0.2
+version: 1.0.3
 repository: https://github.com/chargee-energy/chargee_lints
 
 environment:
   sdk: ">=3.1.0 <4.0.0"
 
 dependencies:
-  flutter_lints: ^2.0.0
+  flutter_lints: ">=2.0.0 < 6.0.0"
   # Code is not allowed in this package. Do not add any dependencies or dev_dependencies.
 
 topics:
