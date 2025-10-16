@@ -1,3 +1,7 @@
+## 1.0.4
+
+- Updated dependencies
+
 ## 1.0.3
 
 - Allow any version of flutter_lints between 2.0.0 and 5.x.x.
